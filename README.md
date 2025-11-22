@@ -214,7 +214,7 @@ MIT License - see LICENSE file for details
 ## 👤 Author
 
 **Hammad Imran**
-- GitHub: [@hammadimran](https://github.com/hammadimran)
+- GitHub: [@maddy-9991](https://github.com/maddy-9991)
 - Email: hammadimran100@gmail.com
 
 ## 🙏 Acknowledgments
